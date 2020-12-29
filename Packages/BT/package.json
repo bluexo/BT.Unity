@@ -1,0 +1,12 @@
+{
+  "name": "com.yg.bt",
+  "displayName": "BT",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "Game BehaviourTree.",
+  "author": {
+    "name": "Alvin"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
